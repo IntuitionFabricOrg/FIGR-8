@@ -40,7 +40,7 @@ The dataset itself (FIGR-8) is protected under the [MIT License](https://opensou
 
 ### Alternate Download
 
-Alternatively, you can download the dataset from [here](bit.ly/FIGR-8 "FIGR-8 GoogleDrive").
+Alternatively, you can download the dataset from [here](http://bit.ly/FIGR-8 "FIGR-8 GoogleDrive").
 
 ### Acknowledgement
 
