@@ -47,3 +47,11 @@ Alternatively, you can download the dataset from [here](http://bit.ly/FIGR-8 "FI
 Images were gathered from [The Nounji App](https://thenounproject.com/nounji/ "Nounji"), available on the App Store.
 
 If you use this database for your own projects, please consider __citing the following paper__:
+
+	@online{1901.02199,
+	Author = {Louis Clouâtre and Marc Demers},
+	Title = {FIGR: Few-shot Image Generation with Reptile},
+	Year = {2019},
+	Eprint = {1901.02199},
+	Eprinttype = {arXiv},
+	}
