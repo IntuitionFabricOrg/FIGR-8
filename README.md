@@ -1,4 +1,5 @@
-#FIGR-8
+# FIGR-8
+
 ___Notice: This dataset is still under construction. The total number of images and classes is not definitive.___
 
 The FIGR-8 database is a dataset containing __18409 classes__ of __1548944 images__ representing pictograms, ideograms, icons, emoticons or object or conception depictions. Its aim is to set a benchmark for Few-shot Image Generation tasks, albeit not being limited to it. Each image is represented by __192x192__ pixels with grayscale value of 0-255. Classes are not balanced (they do not all contain the same number of elements), but they all do contain at the very least 8 images.
@@ -9,7 +10,7 @@ The dataset is readily available for people who want to give a shot at few-shot 
 
 ![](dataset_explanation.png)
 
-###Contents
+### Contents
 
 + Data/
     + All images are contained in subfolders inside Data folder.
@@ -31,13 +32,17 @@ Sample from data.csv:
 | 1566 | Store Hot Coffee | Store Hot Coffee/1320869-200.png | Mat fine | 192x192 | Creative Commons  |
 |...|...|...|...|...|...|
 
-###License
+### License
 
 Most images in the dataset have been licensed under a Creative Commons License by their author, indicating that their reproduction on any material intended to be sold or to be made profit from is **strictly prohibited**. However, use in which the author&apos;s name is indicated is permitted. More details can be found [here](https://creativecommons.org/licenses/by/3.0/us/legalcode "Creative Commons 3.0").
 
 The dataset itself (FIGR-8) is protected under the [MIT License](https://opensource.org/licenses/MIT "MIT License").
 
-###Acknowledgement
+### Alternate Download
+
+Alternatively, you can download the dataset from [here](bit.ly/FIGR-8 "FIGR-8 GoogleDrive").
+
+### Acknowledgement
 
 Images were gathered from [The Nounji App](https://thenounproject.com/nounji/ "Nounji"), available on the App Store.
 
