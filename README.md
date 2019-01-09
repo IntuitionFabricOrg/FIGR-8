@@ -48,10 +48,17 @@ Images were gathered from [The Nounji App](https://thenounproject.com/nounji/ "N
 
 If you use this database for your own projects, please consider __citing the following paper__:
 
-	@online{1901.02199,
-	Author = {Louis Clouâtre and Marc Demers},
-	Title = {FIGR: Few-shot Image Generation with Reptile},
-	Year = {2019},
-	Eprint = {1901.02199},
-	Eprinttype = {arXiv},
+	@article{FIGR2019,
+	author = {Louis Clouâtre and Marc Demers},
+	title = {FIGR: Few-shot Image Generation with Reptile},
+	journal = {CoRR},
+	volume = {abs/1901.02199},
+	year = 2019,
+	ee = {http://arxiv.org/abs/1901.02199},
+	month = jan,
+	archiveprefix = “arXiv”,
+	number = “1901.02199v1”,
+	eprint = “1901.02199v1”,
+	primaryclass = “cs.CV”,
+	nonrefereed = “true”
 	}
