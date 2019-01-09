@@ -4,7 +4,7 @@ ___Notice: This dataset is still under construction. The total number of images 
 
 The FIGR-8 database is a dataset containing __18409 classes__ of __1548944 images__ representing pictograms, ideograms, icons, emoticons or object or conception depictions. Its aim is to set a benchmark for Few-shot Image Generation tasks, albeit not being limited to it. Each image is represented by __192x192__ pixels with grayscale value of 0-255. Classes are not balanced (they do not all contain the same number of elements), but they all do contain at the very least 8 images.
 
-The main contribution of this dataset to the community is the __abundance of image classes__, which is valuable for tasks in which encompassing an abundance of concepts can be useful or even necessary. This was the case in our paper, FIGR: Few-shot Image Generation with Reptile.
+The main contribution of this dataset to the community is the __abundance of image classes__, which is valuable for tasks in which encompassing an abundance of concepts can be useful or even necessary. This was the case in our paper, [FIGR: Few-shot Image Generation with Reptile](https://arxiv.org/abs/1901.02199 "arxiv link").
 
 The dataset is readily available for people who want to give a shot at few-shot image generation techniques, while spending minimal effort on gathering a full-size database. We also encourage this dataset to enable reproduction efforts from the community.
 
